@@ -1,5 +1,7 @@
 # 🤖 Gemini Chatbot with Streamlit
 
+Deploy Link : https://kamalchatbot-2ky7nvkqea3skfhev5h5yt.streamlit.app/
+
 A simple AI chatbot built using **Google Gemini API** (`google-generativeai`) and **Streamlit** for a friendly web interface.
 
 ---
@@ -18,3 +20,4 @@ A simple AI chatbot built using **Google Gemini API** (`google-generativeai`) an
 ```bash
 git clone https://github.com/your-username/gemini-chatbot.git
 cd gemini-chatbot
+'''
